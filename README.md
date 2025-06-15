@@ -1,0 +1,2 @@
+- 一个基于selenium的python脚本，实现了豆包的自动登录、自动上传图片并将回答内容保存为txt文本格式，用于获取标签。
+- A python script based on selenium realizes the automatic login of Doubao, the automatic upload of pictures and the saving of the answer content in txt text format for obtaining tags
